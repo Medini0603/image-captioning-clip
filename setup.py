@@ -4,8 +4,8 @@ import pkg_resources
 from setuptools import setup, find_packages
 
 setup(
-    name="zero-shot-image-to-text",
-    py_modules=["zero-shot-image-to-text"],
+    name="image-captioning-clip",
+    py_modules=["image-captioning-clip"],
     version="1.0",
     description="",
     packages=find_packages(),
